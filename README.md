@@ -12,7 +12,7 @@
 
 I'm Youssef, a developer from Cairo. I like to play around with projects like  [palera1n](https://github.com/palera1n/palera1n) and [Permasigner](https://github.com/permasigner/permasigner). My favorite programming languages are Python, Typescript, and Astro, and I'm trying to get better at all 3 while learning a little C too.
 
-If you need to contact me, you can do so at `me@itsnebula.net`. If this is some sort of security issue or private information, please encrypt your email with [my GPG key](https://static.itsnebula.net/gpgkey.asc) (`FB04F6C8EC56DA32F33008C53D1B28A5FACCB53B`).
+If you need to contact me, you can do so at `youssefsaleh2610@gmail.com`. If this is some sort of security issue or private information, please encrypt your email with [my GPG key]
 
 If you want to know more about the languages and tools I use, please look at my [instagram]
 
