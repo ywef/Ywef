@@ -1,24 +1,19 @@
-<h1 align="center">Hi 👋, I'm Youssef</h1>
-<h3 align="center">ios dev,Cybersecuirty</h3>
+<div align="center">
+    <img src="./images/banner.png" alt="Banner">
+    <a href="https://twitter.com/fazecoronaoffi1"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+    <a href="https://procursus.social/@Youssef"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white"></a>
+    <a href="https://github.com/ywef"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+    <a href="https://discord.gg/palera1n"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ywef&label=Profile%20views&color=0e75b6&style=flat" alt="ywef" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ywef" alt="ywef" /></a> </p>
+### About me
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I'm Youssef, a developer from Cairo. I like to play around with projects like  [palera1n](https://github.com/palera1n/palera1n) and [Permasigner](https://github.com/permasigner/permasigner). My favorite programming languages are Python, Typescript, and Astro, and I'm trying to get better at all 3 while learning a little C too.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerearth.com/youssefcybersecuirty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="youssefcybersecuirty" height="30" width="40" /></a>
-</p>
+If you need to contact me, you can do so at `me@itsnebula.net`. If this is some sort of security issue or private information, please encrypt your email with [my GPG key](https://static.itsnebula.net/gpgkey.asc) (`FB04F6C8EC56DA32F33008C53D1B28A5FACCB53B`).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://clojure.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+If you want to know more about the languages and tools I use, please look at my [instagram]
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ywef&show_icons=true&locale=en&layout=compact" alt="ywef" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ywef&show_icons=true&locale=en" alt="ywef" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ywef&" alt="ywef" /></p>
-
-
+If you'd like to support me, you can send me a support message.
