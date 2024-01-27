@@ -1,19 +1,27 @@
-<div align="center">
-    <img src="./images/banner.png" alt="Banner">
-    <a href="https://twitter.com/fazecoronaoffi1"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href="https://procursus.social/@Youssef"><img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white"></a>
-    <a href="https://github.com/ywef"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-    <a href="https://discord.gg/palera1n"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-</div>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=JaKooLit&label=Profile%20views&color=0e75b6&size=24&style=flat" alt="JaKooLit" /> </p>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello+There!+I'm+Youssef+" />
+</h3>
+
+
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif">
 
 ---
 
-### About me
+- 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
+- 🌱 I’m currently playing around with iphone main os  and jailbreaking newer devices
 
-I'm Youssef, a developer from Cairo. I like to play around with projects like  [palera1n](https://github.com/palera1n/palera1n) and [Permasigner](https://github.com/permasigner/permasigner). My favorite programming languages are Python, Typescript, and Astro, and I'm trying to get better at all 3 while learning a little C too.
+---
 
-If you need to contact me, you can do so at `youssefsaleh2610@gmail.com`. If this is some sort of security issue or private information, please encrypt your email with [my GPG key]
+📊 Stats
 
-If you want to know more about the languages and tools I use, please look at my [instagram]
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ywef&theme=tokyonight)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ywef&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
+![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ywef&theme=tokyonight)
 
-If you'd like to support me, you can send me a support message.
+
+
+<h3 align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasque+Sans+Mono&weight=700&size=24&pause=1000&color=0e75b6&center=true&width=446&lines=Thank+you+for+visiting!+%F0%9F%91%8D)](https://git.io/typing-svg)
