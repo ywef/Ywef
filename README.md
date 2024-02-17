@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
+- 🔭 I'm a tech entauthist who likes to play around with Computers and stuff.
 - 🌱 I’m currently playing around with iphone main os  and jailbreaking newer devices
 
 ---
