@@ -1,7 +1,7 @@
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://theos.dev/img/github-banner-dark.svg">
-<img src="https://theos.dev/img/github-banner.svg" alt="Theos">
+<img src="https://theos.dev/img/github-banner.svg" alt="welcome to youssefs github.">
 </picture>
 </p>
 <p align="center"><strong>
